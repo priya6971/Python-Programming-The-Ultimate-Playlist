@@ -1,0 +1,3 @@
+This is a sample text used to demonstrate the concepts of file handling.
+I hope you will enjoy the today's demonstration.
+And find the overall discussion very helpful and insightful for your upcoming career.
